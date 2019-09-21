@@ -6,6 +6,7 @@ export default function SettingsScreen() {
   return (
     <View style={styles.container}>
       <Text style={{ textAlign: 'center' }}>Hello World</Text>
+      <Text style={{ textAlign: 'center' }}>Once Again :)</Text>
     </View>
   );
 }
